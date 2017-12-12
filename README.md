@@ -1,9 +1,3 @@
 # gh_test
-//learn how to use github
-#include "stdio.h"
+learn how to use github
 
-int main()
-{
-printf("hello");
-return 0;
-}
